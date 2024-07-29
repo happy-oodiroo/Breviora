@@ -7,6 +7,7 @@ Welcome to Breviora, the ultimate URL abbreviation service designed to simplify 
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
