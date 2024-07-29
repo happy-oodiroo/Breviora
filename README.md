@@ -1,6 +1,6 @@
 # [Breviora](https://breviora.click)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://breviora.click)
-[![License](https://img.shields.io/badge/license-private-red.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-private-red.svg)](#license)
 [![Issues](https://img.shields.io/github/issues/happy-oodiroo/Breviora)](https://github.com/happy-oodiroo/Breviora/issues)
 
 [![Breviora](https://breviora.click/Full_Logo.png)](https://breviora.click)
