@@ -1,4 +1,10 @@
 # [Breviora](https://breviora.click)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://breviora.click)
+[![License](https://img.shields.io/badge/license-private-red.svg)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/happy-oodiroo/Breviora)](https://github.com/happy-oodiroo/Breviora/issues)
+
+[![Breviora](https://breviora.click/Full_Logo.png)](https://breviora.click)
+
 Welcome to Breviora, the ultimate URL abbreviation service designed to simplify your digital sharing experience. Easily convert long URLs into short, manageable links and track their performance. Tiny Your Link, Amplify Your Reach.
 
 ## Table of Contents
@@ -23,8 +29,8 @@ Breviora is a URL shortening service. It allows users to shorten long URLs into 
 ## Usage
 
 1. Open your browser and navigate to [`https://breviora.click`](https://breviora.click).
-2. Enter a long URL into the input field.
-3. click "Abbreviate URL" to generate a abbreviated link.
+2. Enter a long URL into the input field. ![Step1](https://breviora.click/Step1_breviora.click.jpg)
+3. click "Abbreviate URL" to generate a abbreviated link.![Step2](https://breviora.click/Step2_breviora.click.jpg)
 4. Copy the abbreviated link or use the social networks buttons below for easy sharing.
 
 ## License
