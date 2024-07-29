@@ -49,10 +49,13 @@ This project is licensed under a private license. All rights are reserved. For m
 
 ## Contributing
 
-We welcome contributions to Breviora! If you have any improvements or suggestions, please feel free to [contact](#contact) us.
+We welcome contributions to Breviora! If you have any improvements or suggestions, please feel free to [contact](#contact) us.<br/>
+To propose a feature : [new feature](https://github.com/happy-oodiroo/Breviora/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=)
 
 ## Contact
 If you have any questions, feel free to reach out:
 
 - **Email**: sassi_said@live.fr
 - **GitHub Issues**: [Create an issue](https://github.com/happy-oodiroo/Breviora/issues)
+- **To propose a feature**: [new feature](https://github.com/happy-oodiroo/Breviora/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=)
+- **To claim a bug**: [Claim bug](https://github.com/happy-oodiroo/Breviora/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=)
