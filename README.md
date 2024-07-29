@@ -10,6 +10,7 @@ Welcome to Breviora, the ultimate URL abbreviation service designed to simplify 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -19,6 +20,15 @@ Welcome to Breviora, the ultimate URL abbreviation service designed to simplify 
 ## Introduction
 
 Breviora is a URL shortening service. It allows users to shorten long URLs into manageable, easy-to-share links. This project aims to provide a simple and efficient solution for URL shortening needs.
+## Technologies Used
+
+This project utilizes the following technologies:
+
+- **C#**
+- **.NET 8** [![.Net](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/128px-Microsoft_.NET_logo.svg.png?20200524040737)]([#](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8/overview))
+- **Blazor WebAssembly** [![Blazor](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/128px-Blazor.png?20201024035312)]([#](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor))
+- **ASP.NET**
+- **OpenAPI** [![OpenAPI](https://www.openapis.org/wp-content/uploads/sites/3/2018/02/OpenAPI_Logo_Pantone-1.png)](https://www.openapis.org/)
 
 ## Features
 
@@ -29,7 +39,7 @@ Breviora is a URL shortening service. It allows users to shorten long URLs into 
 ## Usage
 
 1. Open your browser and navigate to [`https://breviora.click`](https://breviora.click).
-2. Enter a long URL into the input field. ![Step1](https://breviora.click/Step1_breviora.click.jpg)
+2. Enter a long URL into the input field. 
 3. click "Abbreviate URL" to generate a abbreviated link.![Step2](https://breviora.click/Step2_breviora.click.jpg)
 4. Copy the abbreviated link or use the social networks buttons below for easy sharing.
 
